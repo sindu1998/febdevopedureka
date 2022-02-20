@@ -1,1 +1,2 @@
-Sindhu is learning devops
+Sindhu is learning devops. I am practising git
+I am in India
